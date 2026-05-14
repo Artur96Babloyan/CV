@@ -260,17 +260,9 @@ export function InteractiveResume() {
               <p className="play-hero-role">Senior Frontend Developer</p>
               <p className="play-hero-copy">
                 Above: a tiny side-scroller — grab red mushrooms to grow (Small → Super → Mega), then
-                touch the flag. Full-page narrative with a live Three.js scene below. Each section has a
-                guide on wide screens, inspired by{" "}
-                <a
-                  href="http://www.rleonardi.com/interactive-resume/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="play-inline-link"
-                >
-                  Robby Leonardi&apos;s interactive résumé
-                </a>
-                . Same résumé content as the standard CV.
+                touch the flag. Below: a full-page narrative with a live Three.js scene. On wide screens,
+                each section has a small guide beside the text. This is my CV — the same content as the
+                standard page, just told in a more interactive way.
               </p>
               <ul className="play-hero-meta">
                 <li>{CONTACT.location}</li>
